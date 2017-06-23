@@ -1,0 +1,1 @@
+jupyter-notebook --notebook-dir=u'G:\\jupyter\\jupyter_study'
